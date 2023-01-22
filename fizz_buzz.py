@@ -13,3 +13,4 @@ class Solution:
                 arr.append(ans)
             else: arr.append(str(i+1))
         return arr
+
